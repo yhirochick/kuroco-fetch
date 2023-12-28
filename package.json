@@ -7,9 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "yhirochick <yhirochick@gmail.com> (https://github.com/yhirochick)",
+  "contributors": [
+    "nakasoneyoshihiro <nakasone@colrevo.co.jp> (https://github.com/nakasoneyoshihiro)"
+  ],
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yhirochick/kuroco-fetch.git"
   }
 }
