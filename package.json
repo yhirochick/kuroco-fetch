@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yhirochick/kuroco-fetch"
+    "url": "git+https://github.com/yhirochick/kuroco-fetch.git"
   }
 }
