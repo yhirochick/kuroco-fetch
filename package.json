@@ -1,7 +1,7 @@
 {
   "name": "kuroco-fetch",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kurocoのAPIを取得するパッケージ",
   "main": "index.js",
   "scripts": {
